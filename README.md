@@ -1,3 +1,8 @@
+BEFORE YOU READ: There is a known issue where sometimes on certain systems the basic ValleyRBX Desktop file will not open studio, and you may need to open the manager and launch it from there.
+
+I have no idea if this will work on other systems because i am broke and cannot test on a sufficient computer other than my main one.
+
+
 # 🌌 ValleyRBX
 
 **ValleyRBX** is a cinematic, luxury Linux environment manager and bootstrapper for **Roblox Studio**, engineered specifically for **CachyOS / Arch Linux** with **Vinegar's patched Kombucha Wine runner**.
