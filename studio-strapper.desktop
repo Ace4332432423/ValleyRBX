@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Studio Strapper
+Comment=Roblox Studio Bootstrapper with Vinegar Kombucha Wine Handler
+Exec=/home/ace/.gemini/antigravity/scratch/studio-strapper/run.sh
+Icon=org.vinegarhq.Vinegar.studio
+Terminal=false
+Type=Application
+Categories=Development;Game;
+StartupWMClass=StudioStrapper

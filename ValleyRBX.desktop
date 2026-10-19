@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=ValleyRBX
+GenericName=Roblox Studio Launcher
+Comment=Launch Roblox Studio with ValleyRBX Cinematic Runtime
+Exec=valleyrbx --launch
+Icon=valleyrbx
+Terminal=false
+Type=Application
+Categories=Development;Game;
+StartupWMClass=ValleyRBX
+Keywords=roblox;studio;valleyrbx;wine;vinegar;
+Actions=manage;
+
+[Desktop Action manage]
+Name=ValleyRBX Manage
+Exec=valleyrbx --manage
